@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Roland!
 
-I'm currently searching for new grad Software Engineer, Data Scientist, or Financial Analyst positions starting in 2024, open to relocation.
+I'm currently searching for new grad Software Engineer, Data Scientist, or Quantitative Analyst positions starting in 2024, open to relocation.
 Feel free to reach out if you would like to have a (virtual) coffee chat! 
 
 <!--
