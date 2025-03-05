@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 ---
-🏫 I recently graduated from the [University of Toronto](https://www.utoronto.ca/) with a Specialist in **Finance & Economics** and a Minor in **Computer Science** and **Mathematics**.
+🏫 I'm also currently pursuing a part-time Master's of Computer Science at the [University of Pennsylvania](https://www.seas.upenn.edu/). My undergraduate studies were at the [University of Toronto](https://www.utoronto.ca/) with a Specialist in **Finance & Economics** and a Minor in **Computer Science** and **Mathematics**.
 
 ---
 ⚡ **Fun Facts About Me**
