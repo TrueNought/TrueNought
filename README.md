@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 **My Languages and Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,js,html,css,postgres,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,js,postgres)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,graphql,vite,spring,maven)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,express,react,nodejs,graphql,vite,spring)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,eclipse,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,supabase,mongodb,tailwind,vscode,idea,eclipse,linux)](https://skillicons.dev)
 
 
 ---
@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 ---
 ⚡ **Fun Facts About Me**
 - I really enjoy gymming and running: I'm currently training for the half marathon next year in Toronto!
-- I play video games such as Apex Legends, League of Legends, and Overwatch 2.
-- I'm always a fan of trivia and puzzles: you can catch me doing the NYT crossword and wordle everyday.
+- I play a lot of soulslike video games like Elden Ring and Lies of P.
+- I'm always a fan of trivia and puzzles: you can catch me doing the NYT and LinkedIn daily puzzles.
 - I play a variety of sports such as Ultimate Frisbee, Badminton, and Volleyball.
 ---
 
