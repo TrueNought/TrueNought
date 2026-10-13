@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Roland!
 
-I'm currently working as a Software Engineer at CIBC on the Securities Lending team.
+I'm currently working as a Software Engineer at Xanadu on the Tools team.
 Feel free to reach out if you would like to have a coffee chat! 
 
 <!--
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ---
 ⚡ **Fun Facts About Me**
-- I really enjoy gymming and running: I'm currently training for the half marathon next year in Toronto!
+- I really enjoy gymming and running: I'm currently training for the half marathon this fall in Toronto!
 - I'm always a fan of trivia and puzzles: you can catch me doing the NYT and LinkedIn daily puzzles.
 - I play a variety of sports such as Ultimate Frisbee, Badminton, and Volleyball.
 ---
